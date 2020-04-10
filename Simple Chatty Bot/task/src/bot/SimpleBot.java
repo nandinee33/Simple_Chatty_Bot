@@ -1,3 +1,9 @@
+/*
+ *  Created by IntelliJ IDEA.
+ *  User: Nandinee Gupta
+ *  Date: 10-April-20
+ *  Time: 2:00 PM
+ */
 package bot;
 
 import java.util.Scanner;
@@ -33,7 +39,6 @@ public class SimpleBot {
         for (int i = 0; i <= num; i++) {
             System.out.printf("%d!\n", i);
         }
-
 
         System.out.println("Completed, have a nice day!");
     }
