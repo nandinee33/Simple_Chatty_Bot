@@ -52,6 +52,7 @@ public class SimpleBot {
                 "4. To interrupt the execution of a program.");
 
         int ans = 2;
+        int myAns = scanner.nextInt();
 
     }
 
