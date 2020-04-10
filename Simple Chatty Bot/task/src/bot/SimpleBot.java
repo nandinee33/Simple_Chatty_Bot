@@ -55,6 +55,9 @@ public class SimpleBot {
         int myAns = scanner.nextInt();
         while (ans != myAns) {
 
+            System.out.println("Please, try again.");
+            myAns = scanner.nextInt();
+
         }
 
     }
