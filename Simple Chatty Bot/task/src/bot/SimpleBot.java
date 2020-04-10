@@ -11,5 +11,8 @@ public class SimpleBot {
         System.out.println("Please, remind me your name.");
 
         String yourName = scanner.nextLine();
+        System.out.print("What a great name you have," + " ");
+        System.out.println(yourName + "!");
+
     }
 }
