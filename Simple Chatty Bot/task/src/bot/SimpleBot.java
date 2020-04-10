@@ -22,5 +22,8 @@ public class SimpleBot {
         int rem7 = scanner.nextInt();
 
         int yourAge = (rem3 * 70 + rem5 * 21 + rem7 * 15) % 105;
+
+        System.out.print("Your age is" + " ");
+        System.out.print(yourAge + ";");
     }
 }
