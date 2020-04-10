@@ -1,4 +1,4 @@
-# Building a Simple_Chatty_Bot in JAVA (Hyperskill Project)
+# Simple_Chatty_Bot in JAVA (Hyperskill Project)
 
 # About the project
 --> Here, at the beginning of your programmer’s path, creating a simple console chat bot will do wonders to guide you through the basics of coding.
