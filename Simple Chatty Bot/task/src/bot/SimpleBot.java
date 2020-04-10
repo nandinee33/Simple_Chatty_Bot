@@ -1,3 +1,10 @@
+/*
+ *  Created by IntelliJ IDEA.
+ *  User: Nandinee Gupta
+ *  Date: 10-April-20
+ *  Time: 1:30 PM
+ */
+
 package bot;
 
 import java.util.Scanner;
@@ -25,5 +32,7 @@ public class SimpleBot {
 
         System.out.print("Your age is" + " ");
         System.out.print(yourAge + ";");
+
+        System.out.println("that's a good time to start programming!");
     }
 }
