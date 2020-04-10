@@ -53,6 +53,9 @@ public class SimpleBot {
 
         int ans = 2;
         int myAns = scanner.nextInt();
+        while (ans != myAns) {
+
+        }
 
     }
 
