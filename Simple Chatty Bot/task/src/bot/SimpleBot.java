@@ -30,6 +30,9 @@ public class SimpleBot {
 
         // read a number
         int num = scanner.nextInt();
+        for (int i = 0; i <= num; i++) {
+            System.out.printf("%d!\n", i);
+        }
 
 
         System.out.println("Completed, have a nice day!");
